@@ -1,0 +1,10 @@
+PS C:\Users\user> aws iam create-group --group-name MyIamGroup
+{
+    "Group": {
+        "Path": "/",
+        "CreateDate": "2017-09-17T17:00:13.426Z",
+        "GroupId": "AGPAI3W7QDRM22GV5X6EM",
+        "Arn": "arn:aws:iam::553220451895:group/MyIamGroup",
+        "GroupName": "MyIamGroup"
+    }
+}

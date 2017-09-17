@@ -1,0 +1,10 @@
+PS C:\Users\user> aws iam create-user --user-name MyUser
+{
+    "User": {
+        "UserName": "MyUser",
+        "Path": "/",
+        "CreateDate": "2017-09-17T16:58:28.812Z",
+        "UserId": "AIDAJG5E2OKKPTXH2POL4",
+        "Arn": "arn:aws:iam::553220451895:user/MyUser"
+    }
+}
